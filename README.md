@@ -1,20 +1,11 @@
-# Discord-JS-Commands
-
-These are a large amount of commands which are used by the Elevated Modifications Official Community Discord.
-
-These commands are made by guccifrog#2150 & Lane#0069 on Discord.
-
-If you have any questions feel free to join our Discord (https://discord.gg/eM45vpV] and ask for any sort of support in there.
-
 # Discord-JS-Commands.
+Custom written commands for discord.js, used by Elevated Modifications.
 
 # Description.
+Custom written commands with commands such as love letter, and ban.
 
+# Installation.
+Add them to your own discord bot, you should know how.
 
-# Installation
-
-
-# Credits
-
-
-# License
+# Credits.
+Written by guccifrog#2150 & Lane#0069 on Discord.
