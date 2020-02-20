@@ -16,3 +16,6 @@ Add them to your own discord bot, you should know how.
 
 # Credits.
 Written by guccifrog#2150 & Lane#0069 on Discord.
+
+# Discord.
+Welcome to Elevated Modifications - Together we stand, divided we fall - https://discord.gg/eM45vpV.
