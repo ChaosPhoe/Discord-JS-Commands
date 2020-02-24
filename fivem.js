@@ -2,8 +2,8 @@ const Discord = require("discord.js")
 
 module.exports.run = async (bot, message, args) => {
     message.delete();
-	let search = args.join(" ")
-	.replace(/ /g,"%20");
+	let search = args.join(" ").replace(/ /g,"%20");
+	if(!search) return message.channel.send("Please specify a search.").then(msg => msg.delete(10000))
 	
     let forumsSearch = new Discord.RichEmbed()
 	.setAuthor(`Search Result(s) on the FiveM Forums for ${message.content.slice(7)}`)
