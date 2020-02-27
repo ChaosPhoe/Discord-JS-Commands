@@ -1,3 +1,4 @@
+// Credits to guccifrog#2150 & Lane#0069
 const Discord = require('discord.js');
 const weather = require('weather-js');
 const botconfig = require("../../botconfig.json");
@@ -22,7 +23,7 @@ module.exports.run = async (bot, message, args) => {
                 .setColor(botconfig["bot_setup"].main_embed_color)
                 .addField('Timezone',`UTC${location.timezone}`, true) 
                 .addField('Weather Measurement','Fahrenheit', true)
-				.addField('Weather Type',`${current.skytext}`, true)
+		.addField('Weather Type',`${current.skytext}`, true)
                 .addField('Temperature',`${current.temperature}°${location.degreetype}`, true)
                 .addField('Feels Like', `${current.feelslike}°${location.degreetype}`, true)
                 .addField('Humidity', `${current.humidity}%`, true)
