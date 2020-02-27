@@ -9,14 +9,13 @@ module.exports.run = async (bot, message, args) => {
     let sender = message.author; 
          weather.find({search: args.join(" "), degreeType: 'F'}, function(err, result) { 
 				
-					if (result === undefined || result.length === 0) {
-		   		    return message.channel.send('Please specify a valid location or zip code').then(msg => msg.delete(10000));
-					message.delete()
-					
-						  }
+	if (result === undefined || result.length === 0) {
+	return message.channel.send('Please specify a valid location or zip code').then(msg => msg.delete(10000));
+	message.delete()
+	}
 						  
-				        var current = result[0].current;
-						var location = result[0].location
+        var current = result[0].current;
+	var location = result[0].location
          
             const weatherEmbed = new Discord.RichEmbed() 
                 .setAuthor(`Current Weather Information for ${current.observationpoint}`)			
