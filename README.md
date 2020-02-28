@@ -16,7 +16,7 @@ Commands for use with discord.js, there are a large amount of commands with them
 Add them to your own discord bot, you should know how.
 
 # Credits.
-Written by guccifrog#2150 & Lane#0069 on Discord.
+Written by guccifrog#2150 & Lane#0001 on Discord.
 
 # Discord.
 Become one with us - Together we stand, divided we fall - https://discord.gg/eM45vpV.
