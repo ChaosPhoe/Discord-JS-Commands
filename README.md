@@ -3,13 +3,14 @@ Custom written commands for discord.js, used by Elevated Modifications.
 
 # Description.
 Commands for use with discord.js, there are a large amount of commands with them listed below.
-- Accept Command.
-- Deny Command.
-- Avatar Command.
-- FiveM Command.
-- Unban Command.
-- Love Letter Command.
-- Screen Share Command.
+- Accept Command
+- Deny Command
+- Avatar Command
+- FiveM Command
+- Unban Command
+- Love Letter Command
+- Screenshare Command
+- Weather Command
 
 # Installation.
 Add them to your own discord bot, you should know how.
