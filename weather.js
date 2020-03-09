@@ -1,4 +1,3 @@
-// Credits to guccifrog#2150 & Lane#0069
 const Discord = require('discord.js');
 const weather = require('weather-js');
 const botconfig = require("../../botconfig.json");
