@@ -12,6 +12,9 @@ Commands for use with discord.js, there are a large amount of commands with them
 - Screenshare Command
 - Weather Command
 - Bulk Delete Command
+- Lock Command
+- Unlock Command
+- Slow Chat Command
 
 # Installation.
 Add them to your own discord bot, you should know how.
