@@ -15,6 +15,7 @@ Commands for use with discord.js, there are a large amount of commands with them
 - Lock Command
 - Unlock Command
 - Slow Chat Command
+- Dog Command
 
 # Installation.
 Add them to your own discord bot, you should know how.
